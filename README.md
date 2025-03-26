@@ -8,7 +8,7 @@ Sup' Store is a next-gen, full-stack, serverless e-commerce platform designed to
 ```
 scss
 
-📦 supa-store
+📦 sup-store
 ┣ 📂 src
 ┃ ┣ 📂 components
 ┃ ┃ ┣ 🏗 Navbar.tsx
