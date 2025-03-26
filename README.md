@@ -52,6 +52,7 @@ git clone https://github.com/yourusername/t-shirt-store.git
 cd t-shirt-store
 pnpm install # or npm install / yarn install
 ```
+
 2️⃣ Environment Setup
 Copy the .env.example file and configure your Supabase + Stripe keys:
 ```
@@ -60,7 +61,7 @@ sh
 cp .env.example .env
 ```
 Set up Supabase API keys and Stripe test keys.
-```
+
 3️⃣ Start the Dev Server
 ```
 sh
