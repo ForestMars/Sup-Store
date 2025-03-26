@@ -57,7 +57,8 @@ Copy the .env.example file and configure your Supabase + Stripe keys:
 ```
 sh
 
-cp .env.example .env```
+cp .env.example .env
+```
 Set up Supabase API keys and Stripe test keys.
 ```
 3️⃣ Start the Dev Server
