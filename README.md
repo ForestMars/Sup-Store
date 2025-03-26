@@ -1,14 +1,14 @@
-# SupaStore – The Future of E-Commerce, Built Today
+# Sup'Store – The Future of E-Commerce, Built Today
 
 
 ## 🚀 Blazing-Fast, Scalable, and Fully Serverless
-T-Shirt Store is a next-gen, full-stack, serverless e-commerce platform designed to showcase modern TypeScript-driven frontend architecture. Built with Vite, React 18, Supabase, Stripe, and Tailwind CSS, it delivers a hyper-optimized development and user experience.
+Sup' Store is a next-gen, full-stack, serverless e-commerce platform designed to showcase modern TypeScript-driven frontend architecture. Built with Vite, React 18, Supabase, Stripe, and Tailwind CSS, it delivers a hyper-optimized development and user experience.
 
 ## 🏗️ Architecture Overview
 ```
 scss
 
-📦 t-shirt-store
+📦 supa-store
 ┣ 📂 src
 ┃ ┣ 📂 components
 ┃ ┃ ┣ 🏗 Navbar.tsx
