@@ -1,10 +1,10 @@
 # Sup'Store – The Future of E-Commerce, Built Today
 
 
-## 🚀 Blazing-Fast, Scalable, and Fully Serverless
+## Blazing-Fast, Scalable, and Fully Serverless
 Sup' Store is a next-gen, full-stack, serverless e-commerce platform designed to showcase modern TypeScript-driven frontend architecture. Built with Vite, React 18, Supabase, Stripe, and Tailwind CSS, it delivers a hyper-optimized development and user experience.
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 ```
 scss
 
@@ -34,7 +34,7 @@ scss
 - State Management: React’s built-in state + Supabase hooks
 - Linting & Formatting: ESLint, Prettier, TypeScript strict mode
 
-## ⚡ Features That Matter
+## Features That Matter
 - ✅ Next-Gen Performance – Vite, React 18, and TailwindCSS for a blazing-fast UI.
 - ✅ Serverless Backend – Supabase for auth, database, and storage without managing infra.
 - ✅ Instant Checkout – Stripe-integrated payment flow (coming soon).
@@ -43,7 +43,7 @@ scss
 - ✅ Optimized DX – Hot module replacement, ESLint, Prettier, and VS Code integration.
 - ✅ CI/CD Ready – Pre-configured for GitHub Actions + Vercel deployment (coming soon).
 
-## 🚀 Getting Started
+## Getting Started
 1️⃣ Clone & Install Dependencies
 ```
 sh
@@ -69,16 +69,16 @@ sh
 pnpm dev # or npm run dev / yarn dev
 ```
 
-## 🚀 Local Server Running at: http://localhost:5173/
+## Local Server Running at: http://localhost:5173/
 
-## 🔌 API & Backend Integration
+## API & Backend Integration
 ###Supabase Schema Overview
 - products – Stores product metadata (name, description, price).
 - product_variants – Handles inventory with size/color variations.
 - users – Manages authentication via Supabase Auth.
 - orders (Upcoming) – Tracks purchases via Stripe.
 
-## 📡 Deployment Guide
+## Deployment Guide
 Vercel Deployment (Frontend)
 ```
 sh
@@ -95,7 +95,7 @@ Configure tables using supabase/migrations.sql (coming soon).
 
 Set up CORS & API rules for security.
 
-## 🛠 Advanced Optimizations
+## Advanced Optimizations
 ### 1️⃣ Automatic Image Optimization
 Utilizing Supabase Storage with CDN-backed image serving for lightning-fast product images.
 
@@ -127,7 +127,7 @@ const buttonClass = twMerge(clsx('px-4 py-2', 'bg-indigo-600', 'hover:bg-indigo-
 
 ✔ Supabase RLS (Row-Level Security) Enabled
 
-## 🤝 Contributing
+## Contributing
 💡 Pull Requests Welcome!
 
 ## Development Workflow
@@ -139,7 +139,7 @@ Run ESLint & TypeScript checks (pnpm lint & pnpm tsc).
 
 Push & create a pull request.
 
-## 🎯 Roadmap
+## Roadmap
 📌 Stripe Checkout Integration
 
 📌 User Profiles & Order History
@@ -157,4 +157,4 @@ This project is licensed under the MIT License.
 💬 Questions? Open an Issue
 ⭐ Like this project? Star the repo!
 
-### 🔥 Welcome to the future of e-commerce.
+### Welcome to the future of e-commerce.
